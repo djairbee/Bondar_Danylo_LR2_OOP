@@ -1,0 +1,2 @@
+C:\Users\lolda\source\repos\LR2_OOP_Bondar\Debug\LR2_OOP_Bondar.exe
+C:\Users\lolda\source\repos\LR2_OOP_Bondar\Debug\LR2_OOP_Bondar.pdb
